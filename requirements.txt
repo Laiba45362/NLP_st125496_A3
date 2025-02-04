@@ -1,0 +1,6 @@
+streamlit
+torch
+datasets
+pandas
+huggingface_hub
+fsspec
